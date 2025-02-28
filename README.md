@@ -1,5 +1,3 @@
-# AGH repository
-
 <img src="https://github.com/ynramirezy/AGH_Repository_Local-scale_EvapotranspirationData/blob/main/GIS_resources/facultad.png" />
 Welcome to Poland's Local-Scale Evapotranspiration Data!<br>
 Built-in the AGH University of Science and Technology of Kraków<br>
